@@ -1,0 +1,592 @@
+{
+  "tracks": [
+    {
+      "artist": "Dylan Summer",
+      "album": "I Don't Care I Love It!",
+      "track": "Just Give Me a Reason",
+      "uri": "spotify:track:0RZE3rwQi89DKLkp1rFHAV"
+    },
+    {
+      "artist": "Zimbra",
+      "album": "O Tudo, o Nada e o Mundo",
+      "track": "Missão Apollo",
+      "uri": "spotify:track:1nrXASsctukBTO5Slsb5Dk"
+    },
+    {
+      "artist": "Supercombo",
+      "album": "Todo Dia É Dia de Comemorar",
+      "track": "Todo Dia É Dia de Comemorar",
+      "uri": "spotify:track:2TCAdLDCBwiNU7BdGcX8NE"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Radioactive",
+      "track": "Radioactive",
+      "uri": "spotify:track:5VgkwQf6Rzfw9cAzNpxrDJ"
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Love Me Do / PS. I Love You",
+      "track": "PS. I Love You",
+      "uri": "spotify:track:7mQvDMMbLzOhgc210p8EDm"
+    },
+    {
+      "artist": "Malta",
+      "album": "Arena Pop 2015",
+      "track": "Diz Pra Mim",
+      "uri": "spotify:track:1fNLYEpzawLPYkr6xfMRd6"
+    },
+    {
+      "artist": "Malta",
+      "album": "Supernova",
+      "track": "Entre Nós Dois",
+      "uri": "spotify:track:24avkGEoD3jLvzxzLssgLj"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Magic",
+      "uri": "spotify:track:23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "artist": "Supercombo",
+      "album": "Amianto",
+      "track": "Sol da Manhã",
+      "uri": "spotify:track:5oAqAKoKpKrF5YTNXVxdum"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "It's Time",
+      "uri": "spotify:track:3xqF04FdMK7gpIPG3SPFpY"
+    },
+    {
+      "artist": "OMI",
+      "album": "Cheerleader (feat. Kid Ink)",
+      "track": "Cheerleader (feat. Kid Ink) - Felix Jaehn vs Salaam Remi Remix",
+      "uri": "spotify:track:73mE3nfR4jSuJMGHmcGOlp"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Battle Cry",
+      "track": "Battle Cry",
+      "uri": "spotify:track:6ytWzUzpkuwub4eXrG8z4c"
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Sixties, Vol. 1",
+      "track": "Love Me Do",
+      "uri": "spotify:track:1XQfdygWrZRSUc3PO3uB70"
+    },
+    {
+      "artist": "Supercombo",
+      "album": "Amianto",
+      "track": "Amianto",
+      "uri": "spotify:track:2HwIYnboW3xZDmfbEB37zk"
+    },
+    {
+      "artist": "Malta",
+      "album": "Supernova",
+      "track": "Memórias (Come Wake Me Up)",
+      "uri": "spotify:track:55cmpGHyG0MvRIRwpSXrS7"
+    },
+    {
+      "artist": "Dylan Summer",
+      "album": "I Don't Care I Love It!",
+      "track": "I Love It",
+      "uri": "spotify:track:4wq8L7t1wAcAXMCcy1OP1z"
+    },
+    {
+      "artist": "MAGIC!",
+      "album": "Don't Kill the Magic",
+      "track": "No Way No",
+      "uri": "spotify:track:5xHooj89TQoQHj3dALvSh1"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "Radioactive",
+      "uri": "spotify:track:6Ep6BzIOB9tz3P4sWqiiAB"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "America",
+      "uri": "spotify:track:44QumXzhfwNFjpG8SCVR9d"
+    },
+    {
+      "artist": "Fabio Brazza",
+      "album": "Basta",
+      "track": "Basta",
+      "uri": "spotify:track:5xX3zfKcFLgr600TQg7BbE"
+    },
+    {
+      "artist": "Modest Mouse",
+      "album": "Lampshades on Fire",
+      "track": "Lampshades on Fire",
+      "uri": "spotify:track:30J50x380IFf1P1H0DOtW4"
+    },
+    {
+      "artist": "Dylan Summer",
+      "album": "I Don't Care I Love It!",
+      "track": "Feel This Moment",
+      "uri": "spotify:track:2OysHBXdGwHkmrjI5v1rFC"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "Demons",
+      "uri": "spotify:track:2Oehrcv4Kov0SuIgWyQY9e"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "V",
+      "track": "Animals",
+      "uri": "spotify:track:7uolkTLavH97itenLjNmx9"
+    },
+    {
+      "artist": "Punch Brothers",
+      "album": "Ahoy!",
+      "track": "Another New World",
+      "uri": "spotify:track:2OWfdex8Sx9e6RqUeFfUKW"
+    },
+    {
+      "artist": "Avicii",
+      "album": "The Days / Nights",
+      "track": "The Nights",
+      "uri": "spotify:track:3OwPSJu609AMzotCEyoMiO"
+    },
+    {
+      "artist": "The Smiths",
+      "album": "Hatful of Hollow",
+      "track": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+      "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw"
+    },
+    {
+      "artist": "Dylan Summer",
+      "album": "I Don't Care I Love It!",
+      "track": "Loveeeeeee Song",
+      "uri": "spotify:track:6ImgX7e5rJdE38funUU6p9"
+    },
+    {
+      "artist": "Dylan Summer",
+      "album": "I Don't Care I Love It!",
+      "track": "Stay",
+      "uri": "spotify:track:16msH2LJaLlXGJefompPSd"
+    },
+    {
+      "artist": "Queen",
+      "album": "News Of The World",
+      "track": "We Are The Champions - Remastered 2011",
+      "uri": "spotify:track:1lCRw5FEZ1gPDNPzy1K4zW"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "Hear Me",
+      "uri": "spotify:track:4R4sJ1jv8nxwjSl6F06yKG"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "album": "American Beauty/American Psycho",
+      "track": "Centuries",
+      "uri": "spotify:track:0yhPEz5KxlDwckGJaMlZqM"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Warriors",
+      "track": "Warriors",
+      "uri": "spotify:track:5MVkWRKMBO3r05oihuNbzM"
+    },
+    {
+      "artist": "Timmy Trumpet",
+      "album": "Freaks",
+      "track": "Freaks - Radio Edit",
+      "uri": "spotify:track:09Eux3R53FOXzk9mvjgw6P"
+    },
+    {
+      "artist": "Calvin Harris",
+      "album": "Motion",
+      "track": "Summer",
+      "uri": "spotify:track:6YUTL4dYpB9xZO5qExPf05"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Supercombo",
+      "album": "Ao Vivo Quando A Terra Era Redonda",
+      "uri": "spotify:album:7mf53NHZ8LnRVDy0qFwdOH"
+    },
+    {
+      "artist": "Pentakill",
+      "album": "III: Lost Chapter",
+      "uri": "spotify:album:6jHsnYqSmiMqBvzG8qrYuE"
+    },
+    {
+      "artist": "Dylan Summer",
+      "album": "I Don't Care I Love It!",
+      "uri": "spotify:album:0bObYlg8LX7Zoo78LXqXVB"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Ajuda dos Universitários",
+      "publisher": "Alexandre Lenfers",
+      "uri": "spotify:show:3o2WbaC1n2ff61ADk1C8u0"
+    },
+    {
+      "name": "Mauricio Meirelles Podcast",
+      "publisher": "Maurício Meirelles",
+      "uri": "spotify:show:13UuAPyNnP63GWCzn62vpO"
+    },
+    {
+      "name": "NerdCast",
+      "publisher": "Jovem Nerd",
+      "uri": "spotify:show:22Wgt4ASeaw8mmoqAWNUn1"
+    },
+    {
+      "name": "Pretinho Básico",
+      "publisher": "Rede Atlântida ",
+      "uri": "spotify:show:13zR6wiTJW4w1T5srY3lHb"
+    }
+  ],
+  "episodes": [
+    {
+      "name": "White Noise | Sleep Sound (12 Hours)",
+      "show": "White Noise & Sleep Sounds (12 Hours)",
+      "uri": "spotify:episode:43n8OzoxVg2ky3GSqc16XC"
+    },
+    {
+      "name": "Ruido Blanco para enfocarse - White Noise to focus",
+      "show": "Ruido blanco para concentrarse - White noise to focus",
+      "uri": "spotify:episode:6iN59iYSX63XlfrzAwsjCQ"
+    },
+    {
+      "name": "Cozy Reading Room During Rainstorm with Fireplace | Rain & Fireplace Sounds for Sleeping, Studying",
+      "show": "Soothing Soundzzz",
+      "uri": "spotify:episode:39BWM6UeEWh4MRCDT2EacP"
+    },
+    {
+      "name": "ACHISMOS #57 - Conheça a sua personalidade ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:2WiuHsUz4m35PCLa0zGVu6"
+    },
+    {
+      "name": "ACHISMOS #82 - TRIPULANTE DE CRUZEIRO ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:2L9Qndu8GFwMAuGZtyvIZi"
+    },
+    {
+      "name": "ACHISMOS #66 - CASO EVANDRO ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:14WGIJnk5QhpbxEBmKXroJ"
+    },
+    {
+      "name": "ACHISMOS #74 - CURIOSIDADES SOBRE O PCC",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:03b8cZYUf2GsQMpxEv63dy"
+    },
+    {
+      "name": "ACHISMOS #81 - MAQUIAGEM 3D ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:0WFStNn0mIjlrk00OGeHp2"
+    },
+    {
+      "name": "ACHISMOS #47 - Ex fuzileiro naval do exército americano",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:1j6LvVFr95KyJkOrP5vvCh"
+    },
+    {
+      "name": "ACHISMOS #80 - OBESA ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:4FpVjeoIkxCHEsaWk2upRG"
+    },
+    {
+      "name": "ACHISMOS #84 - BANCÁRIO",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3q70w6LFZAxMOsxLmNrgYx"
+    },
+    {
+      "name": "ACHISMOS #60 - Mário Sérgio Cortella",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:5oIGl5Z4moNlANx9gGb2gS"
+    },
+    {
+      "name": "OS MELHORES MOMENTOS DO #ACHISMOS PODCAST - PROFISSÕES",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:4dLqVDnyQkHmWZrjnMmAEO"
+    },
+    {
+      "name": "O GANDULA QUE ESTAVA NO 7 x 1 - ACHISMOS #168",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:73pZh0HmWmRqTh092PR1yP"
+    },
+    {
+      "name": "ACHISMOS #87 - PEDREIRO ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:1DoxTFwisImVb4CQK0ClCh"
+    },
+    {
+      "name": "ACHISMOS #43 - INDIANO",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3TosC2vecsPGkNnU1SDOES"
+    },
+    {
+      "name": "TUDO SOBRE A HISTÓRIA DO RAP - ACHISMOS #167",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:2SggGWyiW2giNtLnwrrIxT"
+    },
+    {
+      "name": "ACHISMOS #83 - ESCOTEIROS ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3F8zjtz1sqzwWCsL6VwFLp"
+    },
+    {
+      "name": "ACHISMOS #42 - Chefe de Entomofagia (Comi Barata)",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3CaOuEZmLK4nREssFFwCjq"
+    },
+    {
+      "name": "EP #52 - Gordofobia X Evangélicos",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3H4qGi5K8v2fQPnBFzLLop"
+    },
+    {
+      "name": "ACHISMOS #135 - ANGOLA ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:18oMFVpCbkJxvvOiEnkTrK"
+    },
+    {
+      "name": "ACHISMOS #32 - Pai de Santo",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:4lsGsd4rZ4qmPgJk1HRkou"
+    },
+    {
+      "name": "ROGÉRIO VILELA CONTA OS SEGREDOS DOS DESENHISTAS - ACHISMOS PODCAST #169",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:1UzEYiX6O7QyrhneSyZsRa"
+    },
+    {
+      "name": "SAIBA TUDO SOBRE O METAVERSO - ACHISMOS #136",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:6Mz0lsR7dQMCnJaSOr2Qhh"
+    },
+    {
+      "name": "EP #8 - A visão de um open mic com Arthur Petry",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:0z8PWhlhOHve8RIE0t1mNn"
+    },
+    {
+      "name": "ACHISMOS #27 - Mc Trans",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:56tIGsmxXJErxRyIizQDXv"
+    },
+    {
+      "name": "ACHISMOS #6 - Padre Juarez",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:5nzcQbM10eHaM7uEmMDduN"
+    },
+    {
+      "name": "ACHIMOS #36 - ENFERMEIRO DO SAMU",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:5T51R3R4l1NrmU9Cwrp5fq"
+    },
+    {
+      "name": "ACHISMOS #44 - Monge budista",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:5WMouyw6FLqMF63OSCCXfA"
+    },
+    {
+      "name": "ACHISMOS #73 - PAPARAZZO ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3QxdHmTtwt0KIYCzuUxOl4"
+    },
+    {
+      "name": "ACHISMOS #59 - Comentarista esportivo ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:3SYSvIN39kX8gIgSDkreUS"
+    },
+    {
+      "name": "ACHISMOS #40 - Celebrante",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:2ybh9Wq9Viwj2wqN26ga5p"
+    },
+    {
+      "name": "ACHISMOS #62 - Metroviário ",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:5Y8HXcERI8WKSahribQl2V"
+    },
+    {
+      "name": "EP #33 - Angústias",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:0PBjNXEhRvDjljDEqHxG6V"
+    },
+    {
+      "name": "QUAL É A ROTINA DE UM DEPUTADO? - KIM KATAGUIRI - ACHISMOS #142",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:0nn6EVWOeitTzFISzBDtv5"
+    },
+    {
+      "name": "O SONOPLASTA DO RATINHO - ACHISMOS #166",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:6LFuylWDyWLT4kX4hA5saz"
+    },
+    {
+      "name": "RAFINHA BASTOS RESPONDENDO OS ACHISMOS DE VOCÊS - ACHISMOS #139",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:44D3V409QGuaCqvoRelD39"
+    },
+    {
+      "name": "ACHISMOS #85 - FUNCIONÁRIO DO WHATSAPP",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:1hbXe1rVLuefUArdG6UWJj"
+    },
+    {
+      "name": "O TORCEDOR BRASILEIRO QUE VIRALIZOU EM DUAS COPAS - TOMER SAVOIA - ACHISMOS PODCAST #174",
+      "show": "Mauricio Meirelles Podcast",
+      "uri": "spotify:episode:49SUV1mFcySVC1LuQ9FADv"
+    },
+    {
+      "name": "NerdCast 765 - Não vale usar Google 3",
+      "show": "NerdCast",
+      "uri": "spotify:episode:1i0BAR3Nh0K7No4DY9r7f8"
+    },
+    {
+      "name": "BAIANO LOL - Flow Podcast #455",
+      "show": "Flow Podcast",
+      "uri": "spotify:episode:5Ymqga0lWgXovwORGegJwC"
+    },
+    {
+      "name": "EDUARDO LEITE [GOVERNADOR DO RS] - Flow Podcast #470",
+      "show": "Flow Podcast",
+      "uri": "spotify:episode:3opzBjUD8CoiSvBjGb2ed5"
+    },
+    {
+      "name": "FALLEN - Flow Podcast #466",
+      "show": "Flow Podcast",
+      "uri": "spotify:episode:3X1h9xjUbHfeg59wd0wq6C"
+    },
+    {
+      "name": "LÉO LINS - Flow Podcast #376",
+      "show": "Flow Podcast",
+      "uri": "spotify:episode:7w19Si0JIDkHhUxssmHRLV"
+    },
+    {
+      "name": "DIANHO - Flow Podcast #467",
+      "show": "Flow Podcast",
+      "uri": "spotify:episode:1Xq97fpJPEGZGHWlbUXxqW"
+    },
+    {
+      "name": "277 - TABATA AMARAL",
+      "show": "Inteligência Ltda.",
+      "uri": "spotify:episode:3DiF6tnHpiE7seV3RGaMvx"
+    },
+    {
+      "name": "EP 31 - IGOR GUIMARÃES",
+      "show": "TICARACATICAST",
+      "uri": "spotify:episode:5blvcFYL4ase9svIQBKakh"
+    }
+  ],
+  "bannedTracks": [
+    {
+      "artist": "Valerie June",
+      "album": "You And I",
+      "track": "You And I - Moon And Stars / Acoustic",
+      "uri": "spotify:track:5E87q3c0yZ5n5m2Fuq2RMZ"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Aerosmith",
+      "uri": "spotify:artist:7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    {
+      "name": "Arctic Monkeys",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "name": "Ariel, Zoey & Eli",
+      "uri": "spotify:artist:3cUVCU5bUoeymUeLNOlSEZ"
+    },
+    {
+      "name": "Armored Dawn",
+      "uri": "spotify:artist:1oueQWyrcULGbpk0DyiqGf"
+    },
+    {
+      "name": "Codinome Winchester",
+      "uri": "spotify:artist:0oxzuDPaVqVeGDKQfp36QZ"
+    },
+    {
+      "name": "DPR IAN",
+      "uri": "spotify:artist:2o8gT0fQmFxGNbowbdgeZe"
+    },
+    {
+      "name": "EDEN",
+      "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+    },
+    {
+      "name": "Eu Sou o Gabe",
+      "uri": "spotify:artist:1VCdDCwUx7F9jhZeAShaB9"
+    },
+    {
+      "name": "Fabio Brazza",
+      "uri": "spotify:artist:0Ludmn78UAusTsNCXgICrN"
+    },
+    {
+      "name": "Guns N' Roses",
+      "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    {
+      "name": "Jack Ü",
+      "uri": "spotify:artist:1HxJeLhIuegM3KgvPn8sTa"
+    },
+    {
+      "name": "League of Legends",
+      "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+    },
+    {
+      "name": "Mussa",
+      "uri": "spotify:artist:7pry0ELUwIhJkh34CXpims"
+    },
+    {
+      "name": "Nominalistas",
+      "uri": "spotify:artist:5WPNgbNFXvRxRxkp5cry1h"
+    },
+    {
+      "name": "OMFG",
+      "uri": "spotify:artist:0UdoKjWIe3tHyiqc4qT3Oz"
+    },
+    {
+      "name": "OneRepublic",
+      "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+    },
+    {
+      "name": "Pentakill",
+      "uri": "spotify:artist:2qcGTB5s2t9o2w9SrI719s"
+    },
+    {
+      "name": "Shawn Mendes",
+      "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    },
+    {
+      "name": "Supercombo",
+      "uri": "spotify:artist:73HkjgziMO6I83vFOS8mo1"
+    },
+    {
+      "name": "TIAGO IORC",
+      "uri": "spotify:artist:4iWkwAVzssjb8XgxdoOL6M"
+    },
+    {
+      "name": "The Beatles",
+      "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "name": "Zimbra",
+      "uri": "spotify:artist:11xX6bMCvpstEFOyx8lxYg"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}

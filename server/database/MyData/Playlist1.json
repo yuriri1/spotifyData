@@ -1,0 +1,2458 @@
+{
+  "playlists": [
+    {
+      "name": "Minha playlist nº 7",
+      "lastModifiedDate": "2022-12-30",
+      "items": [
+        {
+          "track": {
+            "trackName": "All I Want",
+            "artistName": "Kodaline",
+            "albumName": "In A Perfect World",
+            "trackUri": "spotify:track:0NlGoUyOJSuSHmngoibVAs"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-12-26"
+        },
+        {
+          "track": {
+            "trackName": "I’ll Still Have Me",
+            "artistName": "Cyn",
+            "albumName": "I’ll Still Have Me",
+            "trackUri": "spotify:track:71HEg3bYLyMAxHuJ3a6KIM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-12-26"
+        },
+        {
+          "track": {
+            "trackName": "King And Lionheart",
+            "artistName": "Of Monsters and Men",
+            "albumName": "My Head Is An Animal",
+            "trackUri": "spotify:track:310d8Vawp5kYDYrGrrTAzl"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-12-30"
+        },
+        {
+          "track": {
+            "trackName": "House a Habit",
+            "artistName": "We Are the Guests",
+            "albumName": "House a Habit",
+            "trackUri": "spotify:track:1Ig47iM64FaCiF2c7Q96kc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-12-30"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Kiko’s Pet Playlist ",
+      "lastModifiedDate": "2022-05-27",
+      "items": [
+        {
+          "track": {
+            "trackName": "Éxta",
+            "artistName": "Sebastian Plano",
+            "albumName": "Éxta",
+            "trackUri": "spotify:track:4ojDL8NmuJXTgY4Wb0Vmpa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Me & My Dog",
+            "artistName": "Julien Baker",
+            "albumName": "boygenius",
+            "trackUri": "spotify:track:4q9w3UGW3utmeUruBLUoZZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Howl",
+            "artistName": "Florence + The Machine",
+            "albumName": "Lungs",
+            "trackUri": "spotify:track:3GS8qG28p2RF6M7S5rFdx5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Find a Way",
+            "artistName": "Austin Basham",
+            "albumName": "Linton / / Oslo",
+            "trackUri": "spotify:track:2OogJ42JxRPOl4oZQehHYa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Lady Bird/Half Nelson",
+            "artistName": "Kirill Poudavoff",
+            "albumName": "Behind the Beat",
+            "trackUri": "spotify:track:6sqXGvNtZvBsE1gxThQgSG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "abcdefu",
+            "artistName": "GAYLE",
+            "albumName": "ur just horny",
+            "trackUri": "spotify:track:2IcKt8tzrR6TC73T1N4yi9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Starman - 2012 Remaster",
+            "artistName": "David Bowie",
+            "albumName": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+            "trackUri": "spotify:track:0pQskrTITgmCMyr85tb9qq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "King And Lionheart",
+            "artistName": "Of Monsters and Men",
+            "albumName": "My Head Is An Animal",
+            "trackUri": "spotify:track:310d8Vawp5kYDYrGrrTAzl"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "My Friends",
+            "artistName": "Oh Wonder",
+            "albumName": "Ultralife",
+            "trackUri": "spotify:track:5akwscFQuxswqVcKKKipyw"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Misguided Ghosts",
+            "artistName": "Paramore",
+            "albumName": "Brand New Eyes",
+            "trackUri": "spotify:track:7m3mf1vU7CZHhwXcxAX7zk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "All the Pretty Girls",
+            "artistName": "KALEO",
+            "albumName": "A/B",
+            "trackUri": "spotify:track:0QQIhT6PtJ5glyn4HKNKQ6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Iodine & Iron",
+            "artistName": "The Veils",
+            "albumName": "Total Depravity",
+            "trackUri": "spotify:track:0SFodCpYpAeZmKvYh8xdnm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Honey Waits",
+            "artistName": "Keilan Creech",
+            "albumName": "Honey Waits",
+            "trackUri": "spotify:track:49KoW2dfS6ELtUvwnUZYk2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Green",
+            "artistName": "Cavetown",
+            "albumName": "Lemon Boy",
+            "trackUri": "spotify:track:2PfkfkaO9okAk0OxC4ggy5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Deep Green",
+            "artistName": "Marika Hackman",
+            "albumName": "Deaf Heat EP",
+            "trackUri": "spotify:track:3y7SaLukj7ONKxdZLAoQtH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Moon Song - Acoustic",
+            "artistName": "Malena Zavala",
+            "albumName": "Aliso",
+            "trackUri": "spotify:track:126Lvl5g83B8kBrGwC72Dz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "House a Habit",
+            "artistName": "We Are the Guests",
+            "albumName": "House a Habit",
+            "trackUri": "spotify:track:1Ig47iM64FaCiF2c7Q96kc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "You Were Afraid",
+            "artistName": "Night Beds",
+            "albumName": "Even If We Try b/w You Were Afraid",
+            "trackUri": "spotify:track:0ismCYm7OW8i7E9O9lNfwh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "You've Haunted Me All My Life",
+            "artistName": "Death Cab for Cutie",
+            "albumName": "Kintsugi",
+            "trackUri": "spotify:track:3ENaHanzpi9ZamW12r1Sx5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Sleepy Hollow",
+            "artistName": "The Pines",
+            "albumName": "Above the Prairie",
+            "trackUri": "spotify:track:4IzX2p12ucjEcKb2aCr1ND"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Blood on the Mattress",
+            "artistName": "Korey Dane",
+            "albumName": "Blood on the Mattress",
+            "trackUri": "spotify:track:6YAzAk5mGSMpvnUJ3JV3dn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Another New World",
+            "artistName": "Punch Brothers",
+            "albumName": "Ahoy!",
+            "trackUri": "spotify:track:2OWfdex8Sx9e6RqUeFfUKW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Inferno",
+            "artistName": "The Felice Brothers",
+            "albumName": "From Dreams to Dust",
+            "trackUri": "spotify:track:4ShxJDo1EtT1UJeq29JIn5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "In Time",
+            "artistName": "Talos",
+            "albumName": "Wild Alee",
+            "trackUri": "spotify:track:5gb7t37uXnb5tjcMFSiJ2n"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Cycling Trivialities",
+            "artistName": "José González",
+            "albumName": "In Our Nature",
+            "trackUri": "spotify:track:2T9AMR4PFQZCjqo36f9Dhc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Weather2020",
+            "artistName": "Molly Parden",
+            "albumName": "290520",
+            "trackUri": "spotify:track:726E9Bz9YOJUD65r155ZXQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Goodbye (with Soap & Skin)",
+            "artistName": "Apparat",
+            "albumName": "The Devil's Walk",
+            "trackUri": "spotify:track:6BJXuY0lY0EUtSDCgkYnqE"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-23"
+        },
+        {
+          "track": {
+            "trackName": "Rain at Night",
+            "artistName": "Oh So Quiet",
+            "albumName": "Oh So Quiet EP",
+            "trackUri": "spotify:track:1jkiqya3S2nRjGnrX71vve"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Vessel",
+            "artistName": "Dry the River",
+            "albumName": "Alarms in the Heart",
+            "trackUri": "spotify:track:1Z3cJgi5T2qhrxSR8vtFEh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "You",
+            "artistName": "Keaton Henson",
+            "albumName": "Birthdays",
+            "trackUri": "spotify:track:3AsfuEnwyMTHS7mbzcRUdV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Hopelessness Has Done Nothing for Me",
+            "artistName": "Johanna Warren",
+            "albumName": "Gemini II (Deluxe Edition)",
+            "trackUri": "spotify:track:68fu01WBd1maVHWnNNh90p"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Agoraphobia",
+            "artistName": "Autoheart",
+            "albumName": "Punch",
+            "trackUri": "spotify:track:4OIuUoYoO87LnzzaHNp1Ej"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Dream State...",
+            "artistName": "Lucy Dacus",
+            "albumName": "No Burden",
+            "trackUri": "spotify:track:3gTK6H0XBeViYvo9TGJ5V5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Killer + The Sound",
+            "artistName": "Phoebe Bridgers",
+            "albumName": "Killer + The Sound",
+            "trackUri": "spotify:track:00fRUfon3pr861IKiG03kA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Dear Wormwood",
+            "artistName": "The Oh Hellos",
+            "albumName": "Dear Wormwood",
+            "trackUri": "spotify:track:5QK2qYLoYyE0v45cbtBWEe"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Wide-Eyed",
+            "artistName": "Cold Weather Company",
+            "albumName": "A Folded Letter",
+            "trackUri": "spotify:track:67AmB2gk9L41eVSy590o1v"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Wendigo",
+            "artistName": "Penny and Sparrow",
+            "albumName": "Wendigo",
+            "trackUri": "spotify:track:0ZKADlisfLLW2eAw0iRYMX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "The Fold",
+            "artistName": "Wickerbird",
+            "albumName": "The Crow Mother",
+            "trackUri": "spotify:track:660D1KONP5QoayR5MUGGcK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "The Yawning Grave",
+            "artistName": "Lord Huron",
+            "albumName": "Strange Trails",
+            "trackUri": "spotify:track:0IZltiKY8In1Wp3VREXG90"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "The Yawning Grave",
+            "artistName": "Lord Huron",
+            "albumName": "Strange Trails",
+            "trackUri": "spotify:track:0IZltiKY8In1Wp3VREXG90"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Ran Before The Storm",
+            "artistName": "Roo Panes",
+            "albumName": "Little Giant",
+            "trackUri": "spotify:track:1defXGuuYxCy3cJkd2HPZs"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Planets and Stars",
+            "artistName": "Pavvla",
+            "albumName": "Creatures",
+            "trackUri": "spotify:track:0bhW088IeoNlCZ5TQ0EtvI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Emma",
+            "artistName": "Silences",
+            "albumName": "Nevernames",
+            "trackUri": "spotify:track:3JuorOgRlJVqX9zAf8BZRo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Small Hands",
+            "artistName": "Radical Face",
+            "albumName": "The Bastards",
+            "trackUri": "spotify:track:5Sjht3NnTIaZu6FElUkT6z"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Willow Tree March",
+            "artistName": "The Paper Kites",
+            "albumName": "Woodland",
+            "trackUri": "spotify:track:5NffPhg2C8T8GM8WTMvADQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Counting Paths",
+            "artistName": "Matthew And The Atlas",
+            "albumName": "Other Rivers",
+            "trackUri": "spotify:track:0IMN2GjgEHXyilI3WE7YiR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Willow Tree March",
+            "artistName": "The Paper Kites",
+            "albumName": "Woodland",
+            "trackUri": "spotify:track:5NffPhg2C8T8GM8WTMvADQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Bedtime",
+            "artistName": "Annie Eve",
+            "albumName": "Sunday '91",
+            "trackUri": "spotify:track:0zVYbMTPgT97wZgdd2FDAK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Nightclothes",
+            "artistName": "Radical Face",
+            "albumName": "The Bastards",
+            "trackUri": "spotify:track:0ZoDPcD2jWSTCtKNyiwXBN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "The Manic",
+            "artistName": "Amarante",
+            "albumName": "Udana Prana",
+            "trackUri": "spotify:track:0a0Kjuo2Zmtbt2qjIziJi2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Milk & Honey - Alt Version",
+            "artistName": "Billie Marten",
+            "albumName": "Writing of Blues and Yellows (Deluxe Version)",
+            "trackUri": "spotify:track:35ZHHlrMKr7CijbD239b0g"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Black Eyes",
+            "artistName": "David Wirsig",
+            "albumName": "Sunken City",
+            "trackUri": "spotify:track:6XAhbaEZd6ZFWjq12WU7Hq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        },
+        {
+          "track": {
+            "trackName": "Dome",
+            "artistName": "Firewoodisland",
+            "albumName": "Dome",
+            "trackUri": "spotify:track:5F5hkKjJhqpuoM5VJER5pW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-27"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Ao Vivo Quando A Terra Era Redonda",
+      "lastModifiedDate": "2022-04-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Matagal - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:45fJJLdP2qJ05S03FDwS6V"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Campo de Força - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:73uMslFNM3rR6W4OU3eroG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Rogério - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:5NjroEvvOXaYGA4BldQK3a"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Saco Cheio - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:3R401DM8uni70jUn2XmpX4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Bonsai - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0xLUKLs0jS0hFT6R9duxCL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Eutanásia - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:1XPTY2IvRw4hFjefZFQaoS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "O Guerreiro e a Selva - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0eGU8KGdURT3MZOznJ70pv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Magaiver - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:7n5jPR4C4qRWPDEmfq1Y41"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Robozin - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:1u2YnpKNDP5niRAAumxM1y"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Vê Se Não Morre - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0gu7k9AeE8P0siIoT3Mk9S"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Parafuso a Menos - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:1iBGII64Rch5esdeuxM5nq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Se Eu Quiser - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:1GpzP5IfJ4AzFE6qjKDqXQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Maremotos - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0bPkq7DxbUPZYujHV1DTGQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Meu Colorista - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:4ZxwNeJ82DNMAnYGKBqloa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "O Peso da Cruz - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:21nmEelHwfGwm97baMSFNe"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Ela - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2yOY1dWhE3UswiACWC63UL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Memorial - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:6sfk26Ekv9Tu78Pl7Qa8Er"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Autonomia - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2rV9Ej4ThvhonyB48kYKiI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Grão de Areia - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:5yIv7VR9g3fwANnGxmfbUA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Cebolas - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0IsAveWs2o7iFX6UkVg81I"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Xepa das Estrelas - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:6OmY0yWLw9xCuP5MOM9Sq5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Todo Dia é Dia de Comemorar - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2FgMoBbrgy2hzetNNrbbXz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Jovem - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:7K1IaP7VpxtBrdWhcmsnUW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Guarda-Chuva - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2gEAJOxYdGKGCR2bqHxaoL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "A Piscina e o Karma - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0MWjzFTHnsaNovUCao4fdB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "2 e 1 - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:18BYfUhldhl1Y7QXBK3hGW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Menino - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:1rBkEmMPcTB4DdPo7ZdriV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Soldadinho - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:39358liaXA8FgUGjH7kkln"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "O Calculista - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2Y0i58X6IzLo8fVDz28RoQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Labirintite - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:0M25ge8nrmLv41rnz7JEft"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Saudade - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:5TFW4Q8NVqoycJv4yr1lln"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Amianto - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2cNw0W6AjDGoti9fDcIYJw"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Fundo do Mar - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:5zzp6GkqyjCZwzU9S73Ff2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Cela - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:09ckWbX6k2oz59SZ6o5qWG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Menina Largata - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:5TMSlQPZLIxrVL1yKu2QiM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Monstros - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:5DtF8d4sc544BhyWwuGvl6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Sol da Manhã - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:2tkz9LkTtBlni6yc6gNZ0J"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Piloto Automático - Ao Vivo Quando A Terra Era Redonda",
+            "artistName": "Supercombo",
+            "albumName": "Ao Vivo Quando A Terra Era Redonda",
+            "trackUri": "spotify:track:1zvfbB1KNRwdaZyPvsvtwN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-02-18"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "III: Lost Chapter",
+      "lastModifiedDate": "2021-09-09",
+      "items": [
+        {
+          "track": {
+            "trackName": "Lost Chapter",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:207K1MXwebxpXDS43OazOU"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Predator",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:5yGvW9W8yte5ChMcIAwb0m"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Edge of Night",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:3Ro1AMjH9qdY3ZTWfxIFpN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Gathering Storm",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:2eKab7Fw5lCVnVM4G16N6B"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Conqueror",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:4EUVF9U6yBUOz97cIyFhar"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Executioner's Calling",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:5hdHRPKv5pwB93nBq19reU"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Stormrazor",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:1gZ1mDu4N5yxt0Da0zZ5RI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Aftershock",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:6BPJCWBiFHF7ItUQlyyP6x"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Last Stand",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:5V1wcYlThHF52vNxvHVSiu"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Redemption",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:3voBp3LlT8uHeQJ1QNWr8K"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Lightbringer - Acoustic",
+            "artistName": "Pentakill",
+            "albumName": "III: Lost Chapter",
+            "trackUri": "spotify:track:2c3RC6Q1srMggPeBitBBvO"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Cull",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:60MENAaLuthH95BFH7uF8l"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Mortal Reminder",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:2hMng3Va9y65zNzKefarHh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Tear of the Goddess",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:2fKdOno4uuTRrTXdikpdfm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Infinity Edge",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:43D7G1IUQdqmnrQ0miHjVV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Dead Man's Plate",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:03KlsSYkdshISL4kg3uqqO"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "The Hex Core mk-2",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:1PNCaYGRZ70863TyvsA3q0"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "The Bloodthirster",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:0WUgPVIouwbNaAGsLHRc3Y"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Frozen Heart",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:6SmqolecN0Sa5Ul3ekrN26"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Rapid Firecannon",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:5hTFEOZrnKjDQJUBeJ19Mp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Blade of the Ruined King",
+            "artistName": "Pentakill",
+            "albumName": "II: Grasp of the Undying",
+            "trackUri": "spotify:track:2dtEUjoZTHwYtghVKt4Ewl"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Lightbringer",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:7ixYgkcd8aptv5bBAmQXYF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Deathfire Grasp",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:2TpIrrYN70VjU651xOsJzJ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Ohmwrecker",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:3y5bwXEnArAVuFuE9wjmp6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Last Whisper",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:5CqRnqaQI4cg4KStMa7XQO"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "The Hex Core",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:4HbQ2dNDJRcqkhiq6ZBMQ0"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "The Prophecy",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:4glz9iy7CSggrobpJkFk2S"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Thornmail",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:0uRmp590KzGFdXI4shDV3x"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Orb of Winter",
+            "artistName": "Pentakill",
+            "albumName": "Smite and Ignite",
+            "trackUri": "spotify:track:5Rv6N0h3s29CoZXZ55eL5Q"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-09-09"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Minha net não ta caindo",
+      "lastModifiedDate": "2020-07-17",
+      "items": [
+        {
+          "track": {
+            "trackName": "Missão Apollo",
+            "artistName": "Zimbra",
+            "albumName": "O Tudo, o Nada e o Mundo",
+            "trackUri": "spotify:track:1nrXASsctukBTO5Slsb5Dk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Viva",
+            "artistName": "Zimbra",
+            "albumName": "O Tudo, o Nada e o Mundo",
+            "trackUri": "spotify:track:0UYQFonYbcBNBxeFmtc1Wo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Azul - Ao Vivo",
+            "artistName": "Zimbra",
+            "albumName": "Zimbra no Estúdio Showlivre, Vol. III, ao Vivo",
+            "trackUri": "spotify:track:5IU3x0wXbHu9DDYL8XzUKq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "A Busca",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:7fL9dyTG6jCo3Cn1O5JVcD"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Mensagem de Outras Horas",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:5aNWyTud9gSNAvZjysF2Vg"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Vida Vazia",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:2yK9FzO6Wvc2cbs7ugcvw8"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Astro Novo",
+            "artistName": "Codinome Winchester",
+            "albumName": "Astro Novo",
+            "trackUri": "spotify:track:60IvmOkOsqYmsYPWAXizo4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Espírito Velho",
+            "artistName": "Codinome Winchester",
+            "albumName": "10% Alien",
+            "trackUri": "spotify:track:3t0f72r8Tl3EV7PPfjfECm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Piloto Automático",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:35689kbAwieHK4YNmwEisS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Amianto - Acústica",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:0GdCKPb66c2zm3biu7X5tV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Monstros",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:3bGuxNAgPXwEXV3odTDoXX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Matagal",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:6Zx0JfCDycyRZYPVfNGBSt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Campo de Força",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:4q8T8OaZNiFnZqvrCVRWTy"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Menino",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:1m84LufYa3BJgfh0xoEAwo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Sol da Manhã",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:5oAqAKoKpKrF5YTNXVxdum"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Soldadinho",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:0QEBjOyLvFUffvU7P3jV1x"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Todo Dia É Dia de Comemorar",
+            "artistName": "Supercombo",
+            "albumName": "Todo Dia É Dia de Comemorar",
+            "trackUri": "spotify:track:2TCAdLDCBwiNU7BdGcX8NE"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "O Maior Idiota do Mundo",
+            "artistName": "Tópaz",
+            "albumName": "III",
+            "trackUri": "spotify:track:2aZUix6HjMl8hUiAJAQbKT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Se For pra Tudo Dar Errado",
+            "artistName": "Tópaz",
+            "albumName": "Onze Nós",
+            "trackUri": "spotify:track:179NUF6b8tzp3Ni2aMGxgU"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Musica Sem Nome",
+            "artistName": "Tópaz",
+            "albumName": "III",
+            "trackUri": "spotify:track:4WegJ4QfBHOdXgbl6UGdkA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Lentes",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:5YPuR10x1JEQVsgeI7Szec"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-02-26"
+        },
+        {
+          "track": {
+            "trackName": "Amianto",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:2HwIYnboW3xZDmfbEB37zk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Surreal",
+            "artistName": "Scalene",
+            "albumName": "Real / Surreal",
+            "trackUri": "spotify:track:2atOkOisnaWdRmV8cXByHA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Oração",
+            "artistName": "A Banda Mais Bonita da Cidade",
+            "albumName": "A Banda Mais Bonita da Cidade",
+            "trackUri": "spotify:track:0YBq701BXkMaK6V5UyvOpT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Amanheceu",
+            "artistName": "Scalene",
+            "albumName": "Real / Surreal",
+            "trackUri": "spotify:track:6v9tLzzNn5QkKDVryrrWI3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Entrelaços",
+            "artistName": "Scalene",
+            "albumName": "Entrelaços/Inércia",
+            "trackUri": "spotify:track:7G8g5eNiXRtM96YAQ09Nsl"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Relentless Game",
+            "artistName": "Far From Alaska",
+            "albumName": "Relentless Game - Single",
+            "trackUri": "spotify:track:1JqnNZ2Uz9N2sHJ1ampxnB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Bonsai",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:372NdR6AW2FBVF49gEsfST"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-08"
+        },
+        {
+          "track": {
+            "trackName": "Rogério",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:451nXzER7mKRhdcKjGmwS5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-03-08"
+        },
+        {
+          "track": {
+            "trackName": "Magaiver",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:5gWaoKeHCnlDj8ZtjpGOvc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "A Piscina e o Karma",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:5v6yuamfvVj8HyYEXxwRSX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Bonsai",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:372NdR6AW2FBVF49gEsfST"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Grão de Areia",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:3cs8rHYJMaCgO1SIKelxjT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Monstros",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:3bGuxNAgPXwEXV3odTDoXX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Embrulho",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:39My56jow67MdwpUcqppdR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Morar",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:0qQqQvQ2BgaDvFN6tXOIFl"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Bomba Relógio",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:1MYSN8a2NSdJkWuWjLZDTt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Jovem",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:4ZgxTmsiEZnADVdr7MYaLS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Eutanásia",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:4LED9gGGrCUW85jVBO4jm4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Rogério",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:451nXzER7mKRhdcKjGmwS5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Lentes",
+            "artistName": "Supercombo",
+            "albumName": "Rogério",
+            "trackUri": "spotify:track:5YPuR10x1JEQVsgeI7Szec"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-04-15"
+        },
+        {
+          "track": {
+            "trackName": "Maremotos",
+            "artistName": "Supercombo",
+            "albumName": "Adeus, Aurora (Deluxe)",
+            "trackUri": "spotify:track:66cO7MCAFN2YLsIYt9NJBH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "O Paulista",
+            "artistName": "Codinome Winchester",
+            "albumName": "10% Alien",
+            "trackUri": "spotify:track:6STGMDRzIe8eENdjlUMSNb"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "Ser Humano",
+            "artistName": "Tópaz",
+            "albumName": "Ser Humano - Single",
+            "trackUri": "spotify:track:5LB3aEEWFjwGtgf6AoXPvX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "O Ficar e o Ir da Gente",
+            "artistName": "Plutão Já Foi Planeta",
+            "albumName": "A Última Palavra Feche a Porta",
+            "trackUri": "spotify:track:6xqdwJMABha0JKNDXAc7gC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "Menina Largata",
+            "artistName": "Supercombo",
+            "albumName": "Adeus, Aurora",
+            "trackUri": "spotify:track:0DlRI7lf8J11KfCd6BW4Se"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "Calculista",
+            "artistName": "Supercombo",
+            "albumName": "Festa?",
+            "trackUri": "spotify:track:0OHkVMTfrrTMq5bJcyklsz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "Furta-Cor",
+            "artistName": "Scalene",
+            "albumName": "Respiro",
+            "trackUri": "spotify:track:4PUFsnaztPNbXSHhGnQ2Tw"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "Casa Aberta",
+            "artistName": "Scalene",
+            "albumName": "Respiro",
+            "trackUri": "spotify:track:3clawP9j0bZonZRibsydxZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        },
+        {
+          "track": {
+            "trackName": "Caburé",
+            "artistName": "Scalene",
+            "albumName": "Fôlego",
+            "trackUri": "spotify:track:3bm6VxgMzIS6NWamfBu59U"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-17"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "8bit",
+      "lastModifiedDate": "2018-08-22",
+      "items": [
+        {
+          "track": {
+            "trackName": "Sugar - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 22",
+            "trackUri": "spotify:track:67kWNEYVyxpk53GGhGtf5R"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Me and My Broken Heart - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 1",
+            "trackUri": "spotify:track:3JZFmnLxSKGd5G2tpGfM1m"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Am I Wrong - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 4",
+            "trackUri": "spotify:track:6p1kvZ0Q1Ig81tnhrxClc7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Wiggle - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 4",
+            "trackUri": "spotify:track:7JBXQ6t1ZDcjPfeP43ymHZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "American Idiot - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 19",
+            "trackUri": "spotify:track:1rTTwHYH80PxIhBHK9wcei"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Animals - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 14",
+            "trackUri": "spotify:track:1dqQAptE1SslBrIcgefcWi"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Blame - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 15",
+            "trackUri": "spotify:track:5aVb5q40g22uPopTSFxi6a"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Bohemian Rhapsody - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 22",
+            "trackUri": "spotify:track:7n9eU1lBu6HqoT6zNb2Wri"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Boom Clap - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 7",
+            "trackUri": "spotify:track:4Fgp6rYGE69fhA30vKLeVi"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Break Free - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 11",
+            "trackUri": "spotify:track:3aMGBkBXinpUJ2ieo8H0Wz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Chandelier - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 5",
+            "trackUri": "spotify:track:6cd4Pd2MijM4ku4sp8P5Yx"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Centuries - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 15",
+            "trackUri": "spotify:track:2Pdkb7hj6qeIeulmD7EREp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Cheerleader - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 26",
+            "trackUri": "spotify:track:4XX78e0ZJpkbCSs8wRavRa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "CoCo - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 20",
+            "trackUri": "spotify:track:21aB7O5QLjm8vle5aReRZL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Dangerous - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 19",
+            "trackUri": "spotify:track:6MHVCBuasMZklonOfdkHfv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Dark Horse - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 1",
+            "trackUri": "spotify:track:0zEooQig5HbhneKr9BQXSt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Don't Look Down - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 27",
+            "trackUri": "spotify:track:5CYaZiZKQ9lefTOocajrz2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Habits (Stay High) - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 15",
+            "trackUri": "spotify:track:6V5W2sVEhwzUNXgRA7zAXH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "The Hills - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 27",
+            "trackUri": "spotify:track:2BjV3sqH4G3UTO4BYyPwQB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Lean On - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 26",
+            "trackUri": "spotify:track:70vKOmaD3ofgS88HRB3fiZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-29"
+        },
+        {
+          "track": {
+            "trackName": "Hey Mama - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 24",
+            "trackUri": "spotify:track:6aIRtYPTau0X6NMpNu66sk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-30"
+        },
+        {
+          "track": {
+            "trackName": "Hooked on a Feeling - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 17",
+            "trackUri": "spotify:track:3Twq4KIVXLKmGjtuKekvo0"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-30"
+        },
+        {
+          "track": {
+            "trackName": "I Bet My Life - 8-Bit Version",
+            "artistName": "8 Bit Universe",
+            "albumName": "8-Bit Universe, Vol. 18",
+            "trackUri": "spotify:track:4iyH6d2i9O0VLKlscEW8AC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-09-30"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "gatris 150L",
+      "lastModifiedDate": "2018-08-22",
+      "items": [
+        {
+          "track": {
+            "trackName": "A Busca",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:5sAY0Bi4HVvNqj4qErM5Yo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Vida Vazia",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:7wlpHR8t31GHMF29dGx8db"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Mensagem de Outras Horas",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:5sRu0RHId6xxQvwhr9vLNS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Missão Apollo",
+            "artistName": "Zimbra",
+            "albumName": "O Tudo, o Nada e o Mundo",
+            "trackUri": "spotify:track:1nrXASsctukBTO5Slsb5Dk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-05-19"
+        },
+        {
+          "track": {
+            "trackName": "Entre Estrelas",
+            "artistName": "Codinome Winchester",
+            "albumName": "Ocasiões Espaciais",
+            "trackUri": "spotify:track:7bE4A7aEHKX7FEvlmtrFWa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Astro Novo",
+            "artistName": "Codinome Winchester",
+            "albumName": "Astro Novo",
+            "trackUri": "spotify:track:60IvmOkOsqYmsYPWAXizo4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "O Paulista",
+            "artistName": "Codinome Winchester",
+            "albumName": "10% Alien",
+            "trackUri": "spotify:track:6STGMDRzIe8eENdjlUMSNb"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Sobre Viagens e Equilíbrio",
+            "artistName": "Codinome Winchester",
+            "albumName": "10% Alien",
+            "trackUri": "spotify:track:15PbHgVLMvOf6FluZaDfAh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Espírito Velho",
+            "artistName": "Codinome Winchester",
+            "albumName": "10% Alien",
+            "trackUri": "spotify:track:3t0f72r8Tl3EV7PPfjfECm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Vida Lá Fora",
+            "artistName": "Codinome Winchester",
+            "albumName": "10% Alien",
+            "trackUri": "spotify:track:3L0MOr8Lk7HK1JzqkGu29h"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Amianto",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:2HwIYnboW3xZDmfbEB37zk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Lentes",
+            "artistName": "Supercombo",
+            "albumName": "Lentes",
+            "trackUri": "spotify:track:7tFFIb85GzXvDw5rQ1h1II"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Sol da Manhã",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:5oAqAKoKpKrF5YTNXVxdum"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Campo de Força",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:4q8T8OaZNiFnZqvrCVRWTy"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Menino",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:1m84LufYa3BJgfh0xoEAwo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Matagal",
+            "artistName": "Supercombo",
+            "albumName": "Amianto",
+            "trackUri": "spotify:track:6Zx0JfCDycyRZYPVfNGBSt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Surrendo",
+            "artistName": "Supercombo",
+            "albumName": "Surrendo",
+            "trackUri": "spotify:track:45lWoxTBgKhQ1uRpcWACPI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-04-09"
+        },
+        {
+          "track": {
+            "trackName": "Amei Te Ver",
+            "artistName": "TIAGO IORC",
+            "albumName": "Troco Likes",
+            "trackUri": "spotify:track:4owo0j5bw45IqiHxsTzcd6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-05-15"
+        },
+        {
+          "track": {
+            "trackName": "Amanheceu",
+            "artistName": "Scalene",
+            "albumName": "Real / Surreal (Deluxe)",
+            "trackUri": "spotify:track:2dnsqxCyWYslPCT6ajjUDI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-05-19"
+        },
+        {
+          "track": {
+            "trackName": "Dança Diferente",
+            "artistName": "Maglore",
+            "albumName": "Ill",
+            "trackUri": "spotify:track:6RyWmYt2GU3syQCDu1nczh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-05-19"
+        },
+        {
+          "track": {
+            "trackName": "O Sanfoneiro Só Tocava Isso",
+            "artistName": "Suricato",
+            "albumName": "Êta Mundo Bom! - Vol. 1 - EP",
+            "trackUri": "spotify:track:2XZcF88mtFnzAPwvRdhczc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2016-07-24"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
